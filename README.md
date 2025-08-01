@@ -3,6 +3,9 @@
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
+<p>Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolver problemas com código. Comecei minha jornada há 8 meses e, desde então, mergulhei no mundo da programação com curiosidade e disciplina.</p>
+<p>Hoje, meu foco é em front-end — HTML, CSS e JavaScript são minhas ferramentas preferidas. Mas o que realmente me move é entender como as coisas funcionam por trás da tela e como melhorar códigos que não estão indo bem.</p>
+<p>Busco um estágio para continuar aprendendo na prática, crescer com gente boa e contribuir com projetos reais.</p>
 
 ###
 
