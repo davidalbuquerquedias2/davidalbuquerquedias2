@@ -1,56 +1,52 @@
-# Welcome to my profile! 💪🏻
+# Olá! Eu sou o David Dias 👋
 
-### 👨‍💻 About Me
+✨ Estudante de **Análise e Desenvolvimento de Sistemas** na La Salle | Apaixonado por **tecnologia**, **código limpo** e o poder de **aprender todos os dias**
 
-Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolver problemas com código.  
-Comecei minha jornada há 8 meses e, desde então, mergulhei no mundo da programação com curiosidade e disciplina.
+Desde que comecei a programar, há cerca de 8 meses, percebi que cada erro é uma chance de aprender, e cada pequeno avanço já é uma vitória. A programação me despertou uma curiosidade que não para de crescer — e eu sigo nessa jornada com dedicação, foco e vontade de construir algo que faça sentido.
 
-Hoje, meu foco é em front-end — HTML, CSS e JavaScript são minhas ferramentas preferidas.  
-Mas o que realmente me move é entender como as coisas funcionam por trás da tela e como melhorar códigos que não estão indo bem.
+## 🏢 Um pouco sobre minha formação
 
-Busco um estágio para continuar aprendendo na prática, crescer com gente boa e contribuir com projetos reais.
+- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** no La Salle Segundo Semestre.
+- 💻 Me aprofundo em **HTML**, **CSS**, **JavaScript** e **MySQL**, estudando também integração de formulários com banco de dados.
+- 🚀 Participo de bootcamps, cursos online e gosto de sair da zona de conforto sempre que possível.
 
----
+## 📱 Onde me sinto mais à vontade
 
-### 🛠 Techs
+- Desenvolvimento **Front-end**: adoro dar vida às interfaces e ver o resultado direto na tela.
+- Busco escrever **código limpo**, entendível e que facilite a manutenção.
+- Ferramentas do dia a dia: **VSCode**, **GitHub**, **Windows** e boas playlists no fone 🎧.
 
-<p align="center">
-  <!-- Ícones principais -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+## 🚀 O que me move
+
+- A sensação de resolver um problema que parecia impossível no começo.
+- Trabalhar em equipe com pessoas que compartilham conhecimento.
+- Ver minha evolução dia após dia, mesmo que em passos pequenos.
+
+## 📌 Projeto em Destaque
+
+Esse foi um dos projetos onde pude treinar HTML, CSS e lógica com JS. Não está perfeito, mas me orgulho da evolução!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidalbuquerquedias2&repo=Spotify&theme=dark)](https://github.com/davidalbuquerquedias2/Spotify)
+
+## 📊 Estatísticas do GitHub
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=davidalbuquerquedias2&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" alt="Windows" />
-</p>
+## 🧠 Linguagens Mais Usadas
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidalbuquerquedias2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
-</p>
-
----
-
-### 📌 Meu Repositório em Destaque
-
-<p align="center">
-  <a href="https://github.com/davidalbuquerquedias2/Spotify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidalbuquerquedias2&repo=Spotify&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Spotify Repo Card" />
-  </a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalbuquerquedias2&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Vamos nos conectar?
 
-<p align="center">
+Gosto de trocar ideias, conhecer outras histórias e quem sabe, colaborar em algo junto. Me chama lá! 👇
+
+<p>
   <a href="https://www.instagram.com/davi_dalbuquerqueof/?hl=pt-br" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -61,6 +57,6 @@ Busco um estágio para continuar aprendendo na prática, crescer com gente boa e
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding gif" width="300" />
+<p >
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Gif programando" width="300" />
 </p>
