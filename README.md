@@ -1,17 +1,15 @@
-# 👋 Olá! Eu sou o David Dias
+<h1 align="center"> 👋 Olá! Eu sou o David Dias </h1>
 
-✨ Estudante de **Análise e Desenvolvimento de Sistemas** na La Salle  
-Apaixonado por **tecnologia**, **código limpo** e o poder de **aprender todos os dias**.
-
-Desde que comecei a programar, há cerca de 8 meses, percebi que cada erro é uma chance de aprender.  
-A programação despertou em mim uma curiosidade que não para de crescer — e sigo firme nessa jornada com dedicação e foco!
+<p align="center">✨ <u>Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na La Salle  
+Apaixonado por <strong>tecnologia,</strong> e o poder de <mark>aprender todos os dias.</mark>
+<br>
 
 ---
 
-## 🧑‍🎓 Formação e Estudos
+##  Formação e Estudos
 
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** — 2º semestre  
-- 💡 Aprofundando em: **HTML**, **CSS**, **JavaScript** e **MySQL**
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas** — 2 semestre  
+- 💡 Aprofundando em: **HTML,** **CSS,** **JavaScript e** **MySQL.**
 - 🚀 Participando de **bootcamps**, cursos online e projetos práticos
 
 ---
@@ -21,7 +19,7 @@ A programação despertou em mim uma curiosidade que não para de crescer — e 
 - 🌐 Desenvolvimento **Front-end**: gosto de ver o código ganhar vida na tela  
 - 🧼 Foco em **código limpo** e fácil de manter  
 - 🧠 Curioso por lógica, UI/UX e integração com back-end  
-- 🛠️ Ferramentas: **VSCode**, **GitHub**, **Windows** e boas playlists 🎧
+- ⚙ Ferramentas: **VSCode,** **GitHub,** **Windows** e boas playlists 🎧
 
 ---
 
