@@ -22,7 +22,6 @@ Apaixonado por <strong>tecnologia,</strong> e o poder de <mark>aprender todos os
 - ⚙ Ferramentas: **VSCode,** **GitHub,** **Windows** e boas playlists 🎧
 
 ---
-
 ## 📌 Projeto em Destaque
 
 Esse foi um dos projetos onde pude treinar HTML, CSS e lógica com JS.  
@@ -30,27 +29,32 @@ Não está perfeito, mas me orgulho da evolução!
 
 <div align="center">
   <a href="https://github.com/davidalbuquerquedias2/Spotify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidalbuquerquedias2&repo=Spotify&theme=dark" alt="Projeto Spotify" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidalbuquerquedias2&repo=Spotify&theme=nightowl" alt="Projeto Spotify" />
   </a>
 </div>
+
+
+## 🧠 Linguagens Mais Usadas
+
+<div align="center">
+  <a href="https://github.com/davidalbuquerquedias2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalbuquerquedias2&theme=nightowl&hide_langs_below=1" />
+  </a>
+</div>
+
+
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidalbuquerquedias2&show_icons=true&theme=dark" alt="GitHub Stats" />
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=davidalbuquerquedias2&show_icons=true&theme=tokyonight" />
 </div>
+
 
 ---
 
-## 🧠 Linguagens Mais Usadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalbuquerquedias2&layout=compact&theme=dark" alt="Top Langs" />
-</div>
-
----
 
 ## 📫 Vamos nos conectar?
 
