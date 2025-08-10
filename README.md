@@ -28,7 +28,7 @@ Esse foi um dos projetos onde pude treinar HTML, CSS e lógica com JS.
 Não está perfeito, mas me orgulho da evolução!
 
 <div align="center">
-  <a href="https://github.com/davidalbuquerquedias2/Spotify">
+  <a href="https://github.com/davidalbuquerquedias2/Spotify-Clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidalbuquerquedias2&repo=Spotify&theme=nightowl" alt="Projeto Spotify" />
   </a>
 </div>
