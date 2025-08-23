@@ -1,9 +1,5 @@
 <h1 align="center"> 👋 Olá! Eu sou o David Dias </h1>
 
-<p align="center">✨ <u>Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na La Salle  
-Apaixonado por <strong>tecnologia,</strong> e o poder de <mark>aprender todos os dias.</mark>
-<br>
-
 ---
 
 ##  Formação e Estudos
