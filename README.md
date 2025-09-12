@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou o David Dias</h1>
 
-<h2 align="left">Algumas informações</h2>
 
 ---
+<h2 align="left">Algumas informações</h2>
 
 ## Formação e Estudos
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** — 2º semestre  
