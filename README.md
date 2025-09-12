@@ -29,7 +29,7 @@
 ## Linguagens Mais Usadas
 <div align="center">
 <a href="https://github.com/davidalbuquerquedias2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalbuquerquedias2&theme=nightowl&hide_langs_below=1" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalbuquerquedias2&theme=dracula&hide_langs_below=1" width="410"/>
 </a>
 </div>
 
@@ -37,13 +37,13 @@
 
 ## Estatísticas do GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=davidalbuquerquedias2&show_icons=true&theme=black" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=davidalbuquerquedias2&show_icons=true&theme=dracula" width="410"/>
 </div>
 
 ---
 
 ## Entrar em contato!  
-<div align="center">
+<div align="center" width="410">
 <a href="https://www.instagram.com/davi_dalbuquerqueof/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
