@@ -2,7 +2,7 @@
 
 
 ---
-<h2 align="left">Algumas informações</h2>
+<h2 align="center">Algumas informações 💻</h2>
 
 ## Formação e Estudos
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** — 2º semestre  
@@ -10,6 +10,10 @@
 - 🚀 Participando de **bootcamps, cursos online, YouTube e faculdade**  
 - 🌐 **Front-end Development** — Gosto de colocar a mão na massa  
 - 🧼 **Código limpo** — fácil de manter e entender
+
+## Em desenvolvimento
+- 🟢 **Node.js**
+- 🐍 **Python**
 
 ## Linguagens e Tecnologias
 
@@ -39,6 +43,7 @@
 ---
 
 ## Entrar em contato!  
+<h4>Você pode entrar em contato comigo por meio do LinkedIn, Instagram ou Gmail: 📤 </h4>
 <div align="center">
 <a href="https://www.instagram.com/davi_dalbuquerqueof/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -55,5 +60,5 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programando" width="300"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN2OG55dTdhcWNvYWZwa2R5ZmNhM2E3bGF1ZDh4em9rc3did3Q5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Programando" width="600" hight="50"/>
 </div>
