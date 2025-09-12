@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá! Eu sou o David Dias</h1>
-
+<h1 align="center"> 🤙🏻 OPA!  Eu sou o David </h1>
 
 ---
+
 <h2 align="center">Algumas informações 💻</h2>
 
 ## Formação e Estudos
@@ -16,12 +16,12 @@
 - 🐍 **Python**
 
 ## Linguagens e Tecnologias
-
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
@@ -43,7 +43,6 @@
 ---
 
 ## Entrar em contato!  
-<h4>Você pode entrar em contato comigo por meio do LinkedIn, Instagram ou Gmail: 📤 </h4>
 <div align="center">
 <a href="https://www.instagram.com/davi_dalbuquerqueof/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -51,14 +50,13 @@
 <a href="https://www.linkedin.com/in/david-dias-712ba7361" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<div align="center">
-  <a href="mailto:davidalbuquerquedias2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-davidalbuquerquedias2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="mailto:davidalbuquerquedias2@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-davidalbuquerquedias2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN2OG55dTdhcWNvYWZwa2R5ZmNhM2E3bGF1ZDh4em9rc3did3Q5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Programando" width="600" hight="50"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN2OG55dTdhcWNvYWZwa2R5ZmNhM2E3bGF1ZDh4em9rc3did3Q5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Programando" width="800" />
 </div>
