@@ -47,7 +47,7 @@
 <a href="https://www.instagram.com/davi_dalbuquerqueof/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.linkedin.com/in/david-dias-712ba7361" target="_blank">
+<a href="https://www.linkedin.com/in/david-albuquerque-712ba7361" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:davidalbuquerquedias2@gmail.com" target="_blank">
